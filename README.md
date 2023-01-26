@@ -1,3 +1,6 @@
+## Hi there! 
+### This is my latest proyect I´ve been working on, and it´s about updating one of my other proyects, but this time using React!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
