@@ -1,0 +1,43 @@
+#home_barra_buscador{
+    *display: flex;
+    z-index: 3;
+    height: 44px;
+    *background: #202124;
+    border: 1px solid #5f6368;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 638px;
+    width: auto;
+    max-width: 584px;
+}
+#buscar{
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    *color: #e8eaed;
+    word-wrap: break-word;
+    outline: none;
+    display: inline-block;
+    -webkit-tap-highlight-color: transparent;
+    margin-top: 2px;
+    height: 36px;
+    width: 100%;
+    box-sizing: border-box;
+}
+#buscar_lupa{
+    width: 20px;
+    margin: 10px;
+}
+
+#buscar input{
+    border: none;
+} 
+
+#buscador{
+    width: 80%;
+}
+/* #imagen_lupa{
+    background-color: transparent;
+    no funciona
+} */
